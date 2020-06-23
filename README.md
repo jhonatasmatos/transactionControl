@@ -27,6 +27,8 @@ Aplicação para armazenar transações financeiras de entrada e saída, que dev
 ## :collision: Rotas
 
 __*GET*__  _/transactions_ rota responsável por listar todas as transações
+
+
 __*POST*__  _/transactions_ rota responsável por criar uma transação
 
 
